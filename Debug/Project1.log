@@ -1,0 +1,12 @@
+﻿  widget.cpp
+D:\OneDrive\Project1\widget.h(19,2): warning C4091:  “typedef ”: 没有声明变量时忽略“User”的左侧
+D:\OneDrive\Project1\widget.cpp(76,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\OneDrive\Project1\widget.cpp(94,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\OneDrive\Project1\widget.cpp(119,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\OneDrive\Project1\widget.cpp(182,26): warning C4474:  scanf: 格式字符串中传递的参数太多
+D:\OneDrive\Project1\widget.cpp(182,26): message :  占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+D:\OneDrive\Project1\widget.cpp(188,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\OneDrive\Project1\widget.cpp(209,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\OneDrive\Project1\widget.cpp(539,2): warning C4551:  缺少参数列表的函数调用
+D:\OneDrive\Project1\widget.cpp(539,2): warning C4551: D:\OneDrive\Project1\widget.cpp(57) : warning C4715: “goToWidget_Title”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\OneDrive\Project1\Debug\Project1.exe
